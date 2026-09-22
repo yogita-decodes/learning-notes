@@ -1,2 +1,2 @@
 # learning-notes
-My personal learning notes.
+Tracking my learning.
